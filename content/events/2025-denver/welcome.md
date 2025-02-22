@@ -14,7 +14,12 @@ While we're working on some of the finer details, here's what we know so far:<br
 We've opened a limited number of <a href="https://tickets.devopsdays.org/devopsdays-denver/2025/">Early Bird tickets</a> for sale!<br><br>
 
 Stay tuned for more details coming soon!<br>
-<!-- Here are the best ways to stay in touch with us for updates:<br>-->
+Here are the best ways to stay in touch with us for updates:<br>
+{{< event_social_listserv >}}
+{{< event_social_linkedin >}}
+{{< event_social_slack >}}
+{{< event_social_twitter >}}
+{{< event_social_youtube >}}
 <br>
 
 <div style="text-align:center;">
